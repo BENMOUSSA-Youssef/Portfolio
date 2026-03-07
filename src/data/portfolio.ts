@@ -64,7 +64,7 @@ export const skillCategories = [
   },
   {
     title: "Databases",
-    skills: ["MySQL", "ChromaDB", "SQLite , SQL Server"],
+    skills: ["MySQL", "ChromaDB", "SQLite" , "SQL Server"],
   },
   {
     title: "Tools & Systems",
