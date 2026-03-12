@@ -163,6 +163,7 @@ export const contact = {
   github: "BENMOUSSA-Youssef",
   githubUrl: "https://github.com/BENMOUSSA-Youssef",
   linkedInUrl: "https://www.linkedin.com/in/youssefbenmoussa/",
+  linkedIn : "Youssef BENMOUSSA"
 } as const;
 
 export const navSections = [

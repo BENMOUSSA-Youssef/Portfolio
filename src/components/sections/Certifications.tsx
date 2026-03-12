@@ -46,7 +46,7 @@ export default function Certifications() {
                 href={cert.link || "#"}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group flex  min-w-[260px] sm:min-w-[340px] lg:min-w-[420px]items-center gap-5 rounded-2xl border border-white/10 bg-surface-800/50 p-4 sm:p-5 lg:p-6 backdrop-blur transition-all duration-300 hover:border-white/20 hover:bg-surface-800/70"
+                className="group flex min-w-[260px] sm:min-w-[340px] lg:min-w-[420px] items-center gap-5 rounded-2xl border border-white/10 bg-surface-800/50 p-4 sm:p-5 lg:p-6 backdrop-blur transition-all duration-300 hover:border-white/20 hover:bg-surface-800/70"
               >
                 <div className="relative h-14 w-14 sm:h-16 sm:w-16 lg:h-20 lg:w-20 shrink-0 overflow-hidden rounded-lg border border-white/10 bg-white">
                   <Image
